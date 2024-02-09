@@ -1,9 +1,1 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
-
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
-
-conceitos abordados:
-
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+Yu-Gi-Oh! Jokenpo Duel: Um jogo onde você pode se desafiar em emocionantes duelos de cartas inspirados no universo de Yu-Gi-Oh!, mas com um toque único: cada carta possui atributos do clássico jogo de pedra, papel e tesoura (jokenpo). Use suas habilidades estratégicas para vencer seus oponentes e se tornar o mestre dos duelos jokenpo!
